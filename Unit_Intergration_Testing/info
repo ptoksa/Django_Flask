@@ -1,0 +1,2 @@
+python -m unittest test_calculator.py
+python -m unittest test_math_operations.py
